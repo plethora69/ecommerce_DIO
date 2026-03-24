@@ -68,7 +68,7 @@ O modelo foi desenvolvido utilizando MySQL Workbench (EER Diagram).
 
 ## 🗂️ Estrutura do Projeto
 
-
+```
 ecommerce-DIO/
 ├── README.md
 ├── schema_ecommerce.sql
@@ -79,7 +79,7 @@ ecommerce-DIO/
 │ └── ecommerce_model.mwb
 └── imagens/
 └── diagrama-eer.png
-
+```
 
 ---
 
